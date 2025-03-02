@@ -177,7 +177,7 @@ def get_progress_bar_string(pct):
 
 
 async def get_readable_message(sid, is_user, page_no=1, status="All", page_step=1):
-    msg = "<b><a href='https://t.me/JetMirror'>ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴊᴇᴛ-ᴍɪʀʀᴏʀ ❤️🚀</a></b>\n"
+    msg = "<b><a href='https://t.me/STAZLEECH'>ᴘᴏᴡᴇʀᴇᴅ ʙʏ STAR-LEECH ❤️🚀</a></b>\n"
     button = None
 
     tasks = await sync_to_async(get_specific_tasks, status, sid if is_user else None)
