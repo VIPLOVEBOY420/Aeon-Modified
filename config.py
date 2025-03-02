@@ -70,7 +70,7 @@ THUMBNAIL_LAYOUT = ""
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
 BASE_URL = "https://doraemonleech-d3b0813d2be3.herokuapp.com"
-BASE_URL_PORT = 80
+BASE_URL_PORT = 5000
 WEB_PINCODE = False
 
 # Queueing system
